@@ -1,0 +1,19 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "basic node language interp and recognition interface",
+  "main": "lire.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcasey0220/Liri.git"
+  },
+  "author": "laura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcasey0220/Liri/issues"
+  },
+  "homepage": "https://github.com/lcasey0220/Liri#readme"
+}
